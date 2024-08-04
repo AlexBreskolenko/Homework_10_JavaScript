@@ -1,0 +1,28 @@
+.content {
+  width: 500px;
+  padding: 10px;
+  margin: 100px auto;
+  border: 1px solid red;
+  border-radius: 8px;
+}
+
+.content__time {
+  color: blue;
+  display: flex;
+  justify-content: center;
+}
+
+.content__paragraph {
+  color: brown;
+  text-align: center;
+}
+
+.content__heading {
+  color: gold;
+  text-align: center;
+}
+
+.content__link {
+  color: green;
+  list-style: none;
+}

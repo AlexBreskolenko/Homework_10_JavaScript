@@ -1,9 +1,5 @@
 const coinDesk = `{
-  "time": {
-    "updated": "Aug 4, 2024 09:01:49 UTC",
-    "updatedISO": "2024-08-04T09:01:49+00:00",
-    "updateduk": "Aug 4, 2024 at 10:01 BST"
-  },
+  "time": "Aug 4, 2024 09:01:49 UTC",
   "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
   "chartName": "Bitcoin",
   "bpi": {
